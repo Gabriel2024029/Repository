@@ -1,0 +1,17 @@
+Python Referencia.
+https://aws.amazon.com/pt/what-is/python/#:~:text=O%20Python%20%C3%A9%20uma%20linguagem,executada%20em%20muitas%20plataformas%20diferentes.
+https://wiki.python.org/moin/BeginnersGuide
+O Python é uma linguagem de programação amplamente usada em aplicações da Web, desenvolvimento de software, ciência de dados e machine learning (ML). Os desenvolvedores usam o Python porque é eficiente e fácil de aprender e pode ser executada em muitas plataformas diferentes. 
+Arquitetura da Web: conceitos básicos sobre redes de computadores,
+arquiteturas de aplicações cliente-servidor, o papel do navegador web,
+conceitos e exemplos de servidores web
+
+Vs code:Referencia
+https://code.visualstudio.com/docs
+Nesse sentido, o VS Code é, basicamente, um editor que auxilia os programadores na criação de um código de software, sobretudo nas importantes fases de codificação e testes, e que está disponível para os sistemas operacionais Windows, Mac e Linux.
+
+Git Referencia:https://code.visualstudio.com/docs
+Conceitos básicos de programação de computadores: programação
+imperativa, programação orientada a eventos, programação
+síncrona/assíncrona, ferramentas básicas de programação, versionamento
+de código 
