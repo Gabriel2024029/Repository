@@ -15,3 +15,6 @@ Conceitos básicos de programação de computadores: programação
 imperativa, programação orientada a eventos, programação
 síncrona/assíncrona, ferramentas básicas de programação, versionamento
 de código 
+
+Materia: Desenvolvimento Web 
+Primeiro Período
